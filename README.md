@@ -1,3 +1,3 @@
 # hello-world
-Lxf's first project for test in GitHub
+Lxf's first project for test in GitHub.
 try to edit.
